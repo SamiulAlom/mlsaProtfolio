@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that .
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hey, I'm Samiul Alom, I'm a computer science student at the International University of Business Agriculture and Technology, and I'm studying Computer Science. My passion for creating unique, modern, and creative websites is what keeps me busy for years. I am also interested in Artificial Intelligence and Data Science and have been working on various projects related to these fields. I am always looking to expand my knowledge and learn new skills. I am confident that my knowledge and experience will be an asset to any organization.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -33,10 +33,10 @@ const description =
 const skillsList = [
   "Web design",
   "User experience",
-  "Inclusive design",
+  "WEB APPLICATIONS",
   "Focus group testing",
   "Mobile user interfaces",
-  "Graphic design",
+  "Mobile Applications",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my devedevelopment experience I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (
